@@ -1,0 +1,17 @@
+/* Définition des polices personnalisées */
+
+/* Définition du style principal de la page */
+
+section
+{
+	background-color: #CCCCCC;
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+/* Header*/
+
+header
+{
+	background-color: #FFFFFF;
+}
+
